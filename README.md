@@ -56,12 +56,9 @@ pip install -r requirements.txt
 ---
 
 ### Step 3: Customize the File
-
-- **Replace `sanjaynalamasa`**: 
-  - Replace `sanjaynalamasa` in the `git clone` command and the GitHub Repo link with your actual GitHub username.
 - **Dataset Source & Google Colab Links**:
-  - Add links to your dataset (if you have one) and the Google Colab notebook you used for training the models.
-
+  - [Project OverView](https://colab.research.google.com/drive/17-eRubT2sPech2T7vB0ilnJsteCRkmJj?usp=sharing)
+  
 ---
 
 ### Step 4: Commit and Push to GitHub
@@ -86,8 +83,17 @@ pip install -r requirements.txt
 ### Step 5: Check Your GitHub Repository
 
 Once pushed, check your GitHub repository. Your `README.md` file should now appear on the main page of the repository!
+## Contact
 
-This will give your project a professional and structured presentation on GitHub.
+For any questions, suggestions, or issues, feel free to contact me:
+
+- **GitHub**: [sanjaynalamasa](https://github.com/sanjaynalamasa)
+- **Email**: sanjay4nalamasa@gmail.com
+
+I am open to collaboration and contributions to this project. Feel free to submit pull requests or raise issues.
+
+
+
 
 
 
